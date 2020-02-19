@@ -1,4 +1,4 @@
-/// desiging a linked list program:
+/// desiging a single linked list program:
 
 #include<stdio.h>
 #include<stdlib.h>
